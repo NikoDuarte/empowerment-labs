@@ -27,8 +27,6 @@ _Una estructura de carpetas simple y entendible para un entorno backend en una A
     |__Schemas
         |__Archivos de schemas para mongo
 ```
-## Configuracion de rutas 📡:
-Todas las rutas estan definidas segun el schema a utilizar despues del |/api|.
 ## Recomendaciones 👀:
 * Revisar siempre las respuestas del servidor
 * Revisar las dependencias del package.json
